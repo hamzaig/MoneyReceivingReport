@@ -1,0 +1,20 @@
+.heading {
+  text-align: center;
+  /* border: 1px solid black; */
+}
+
+.input-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.thisForm {
+}
+
+.changeToBlue {
+  background-color: lightsalmon;
+}
